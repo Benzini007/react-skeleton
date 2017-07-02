@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log"
+			],
+			[
+				"v",
+				"value	AngularJS"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tet",
+				"text	.text()"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"site",
+				"site-header"
+			],
+			[
+				"site_",
+				"site_icon"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"O",
+				"Oswald"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"t",
+				"t-a	top: auto;"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"letter",
+				"letters"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bag",
+				"background-size"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"button",
+				"button1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"angula",
+				"angular-resource"
+			],
+			[
+				"angular-",
+				"angular-core"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"navba",
+				"navbar-inverse-bg"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"max-",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/TypeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ran",
+				"Random:Text"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"rand",
+				"Random:Text"
+			],
+			[
+				"text",
+				"Random:Text"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ra",
+				"Random:Text"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt",
+				"Set Syntax: CSS3"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snipp",
+				"Snippet: bs3-container"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"dele",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"dle",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"del",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"de",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"delete",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimm",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"TRIMM",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimmer",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tri",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"tr",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"er",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Benzini007/Documents/WEBS/javascript/generator/core bit.js",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/4-DOM-Pig-Game-Final/index.html",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/4-DOM-Pig-Game-Final/challenges.js",
+		"/C/Sites/test.js",
+		"/C/Users/Benzini007/Desktop/react-skeleton/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/javascript/generator/basic.html",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/2-JS-Basics-Final/script.js",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/3-How-JS-Works/script.js",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/3-How-JS-Works-Final/script.js",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/4-DOM-Pig-Game/index.html",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/4-DOM-Pig-Game/app.js",
+		"/C/Users/Benzini007/Downloads/Udemy - The Complete JavaScript Course Build a Real-World Project/All Resources/4-DOM-Pig-Game/style.css",
+		"/C/Users/Benzini007/Documents/WEBS/javascript/Stat check.js",
+		"/C/Users/Benzini007/Desktop/Javascript/JavaScript Essential Training/Exercise Files/Chap06/Timers/script.js",
+		"/C/Users/Benzini007/Desktop/Javascript/JavaScript Essential Training/Exercise Files/Chap05/CreatingDOM/script.js",
+		"/C/Users/Benzini007/Desktop/Javascript/JavaScript Essential Training/Exercise Files/Chap05/ChangingDOM/index.htm",
+		"/C/Users/Benzini007/Desktop/Javascript/JavaScript Essential Training/Exercise Files/Chap05/ChangingDOM/script.js",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Bonus/timeline2.html",
+		"/C/Users/Benzini007/Documents/WEBS/Bonus/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Bonus/golden/golden.html",
+		"/G/Learning/Javascript/JavaScript Essential Training/Exercise Files/Chap02/scriptPosition.html",
+		"/C/Users/Benzini007/Documents/WEBS/javascript/objectCHA.js",
+		"/C/Users/Benzini007/Documents/WEBS/javascript/statomatic.js",
+		"/C/Users/Benzini007/Documents/WEBS/javascript/StatPage.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Huntsville/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Indianapolis/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Indianapolis/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Jacksonville/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Jacksonville/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Knoxville/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Knoxville/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Lafayette/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Lafayette/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Bloomingdale/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Fort Wayne/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Fort Wayne/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Huntsville/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Bloomingdale/160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Knoxville/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami Hisp/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Bloomingdale/300x250/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Lafayette/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Fort Wayne/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Huntsville/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Indianapolis/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Jacksonville/160x600-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami Hisp/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Fort Wayne/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Huntsville/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Indianapolis/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Jacksonville/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Knoxville/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Lafayette/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami Hisp/300x250-/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Bloomingdale/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Miami Hisp/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/Chattanooga_160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/GS  multiple objects playback/js/main.js",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/_For animation reference/INFIN_ENG_GIG COMING SOON_MIAMI_HTML_728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/_For animation reference/INFIN_ENG_GIG COMING SOON_MIAMI_HTML_300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/_For animation reference/INFIN_ENG_GIG COMING SOON_MIAMI_HTML_160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Fort Wayne/728x90/test.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/Chattanooga/300x250/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/728x90/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/300x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/GS staggering multiple objects/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/Gig Now Available/play/160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/play/test run/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/Motorcycle with GS fade/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/Motorcycle with GS fade/css/basic.css",
+		"/C/Users/Benzini007/Documents/WEBS/Addams/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Contracts/Inviziizy/play/160x600/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/PALLETTE/GreensockBanner/GS  multiple objects playback/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/Addams/js/scripts.js",
+		"/C/xampp2/htdocs/test/ajaxThing.html",
+		"/C/xampp2/htdocs/test/select.php",
+		"/C/xampp2/htdocs/index.html",
+		"/C/Users/Benzini007/Documents/WEBS/H5Boilerplate/.htaccess",
+		"/C/xampp2/htdocs/selectJS/index.html",
+		"/C/xampp2/htdocs/selectJS/select.js",
+		"/C/xampp2/htdocs/selectJS/select.php",
+		"/C/Users/Benzini007/Downloads/JSON AJAX data transfer to MySQL database using PHP [Completed]/01 Introduction to course content/007 Source Code for JavaScript AJAX.html",
+		"/C/xampp2/htdocs/Atest/index.html",
+		"/C/xampp2/htdocs/xml/index.html",
+		"/C/xampp2/htdocs/xml/cd_catalog.xml",
+		"/C/xampp2/htdocs/basicAjax/index2.html",
+		"/C/xampp2/htdocs/basicAjax/index.html",
+		"/C/xampp2/htdocs/xml/getcd.php",
+		"/C/xampp2/htdocs/test/insert.php",
+		"/C/xampp2/htdocs/test/index.php",
+		"/C/xampp2/htdocs/JQAJAX/index.html",
+		"/C/xampp2/htdocs/JQAJAX/api.php",
+		"/C/xampp2/htdocs/test/prepared.php",
+		"/C/xampp2/htdocs/test/response.php",
+		"/C/xampp2/htdocs/test/update.php",
+		"/C/xampp2/htdocs/test/index2.php",
+		"/C/xampp2/htdocs/ajaxToDb/getuser.php",
+		"/C/xampp2/htdocs/attributes/index.html",
+		"/C/xampp2/htdocs/attributes/table.php",
+		"/C/xampp2/htdocs/ajaxToDb/index.html",
+		"/C/xampp2/htdocs/testing/ajax.php",
+		"/C/xampp2/htdocs/JQ.html",
+		"/C/xampp2/htdocs/attributes/js/stats.js",
+		"/C/xampp2/htdocs/ajaxToDb/postuser.php",
+		"/C/xampp2/htdocs/attributes/table.html",
+		"/C/xampp2/htdocs/test/php/ajax-follow.php",
+		"/C/xampp2/htdocs/test/ajaxCall.html",
+		"/C/xampp2/htdocs/attributes/test2.html",
+		"/C/xampp2/htdocs/attributes/count.html",
+		"/C/xampp2/htdocs/attributes/app.js",
+		"/C/xampp2/htdocs/attributes/fun.js",
+		"/C/xampp7/apache/conf/httpd.conf",
+		"/C/xampp7/htdocs/ajax.php",
+		"/C/xampp7/htdocs/index.html",
+		"/C/xampp7/htdocs/testing/test.php",
+		"/C/xampp7/htdocs/test/makedb.php",
+		"/C/xampp7/htdocs/EventCal/public/index.php",
+		"/C/xampp7/htdocs/EventCal/sys/class/class.db_connect.inc.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Benzini007\\Documents\\esf\\application\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"strBox",
+			"strX",
+			"strBox",
+			"strBonus",
+			"strBox",
+			"strVal",
+			"bonus",
+			"DoStat",
+			"learn more",
+			"forwards",
+			"stars",
+			"svg",
+			"logo",
+			"stars",
+			"detach",
+			"hide",
+			"demo.txt",
+			"connection",
+			"$db",
+			"$dbo",
+			"$event_info",
+			"Document",
+			"md",
+			"STR",
+			").val",
+			"<option value=\"7\">7</option>\n										<option value=\"8\">8</option>\n										<option value=\"9\">9</option>\n										<option value=\"10\" selected>10</option>\n										<option value=\"11\">11</option>\n										<option value=\"12\">12</option>\n										<option value=\"13\">13</option>\n										<option value=\"14\">14</option>\n										<option value=\"15\">15</option>\n										<option value=\"16\">16</option>\n										<option value=\"17\">17</option>\n										<option value=\"18\">18</option>",
+			"optionVal",
+			"'",
+			"<option value=\"-2\">7</option>\n										<option value=\"-1\">8</option>\n										<option value=\"-1\">9</option>\n										<option value=\"0\" selected>10</option>\n										<option value=\"0\">11</option>\n										<option value=\"+1\">12</option>\n										<option value=\"+1\">13</option>\n										<option value=\"+2\">14</option>\n										<option value=\"+2\">15</option>\n										<option value=\"+3\">16</option>\n										<option value=\"+3\">17</option>\n										<option value=\"+4\">18</option>",
+			"0",
+			"\"",
+			"0",
+			"\"",
+			"DEX",
+			"STR",
+			"'",
+			"text()",
+			"text(",
+			"option:selected')",
+			"attr = $('#",
+			"$('#",
+			"'",
+			"attr",
+			"\"0\">10",
+			"$point_total",
+			"mod\">-2",
+			"-2",
+			"});",
+			".text();",
+			"alert(attr);",
+			"WIS",
+			"CHA",
+			"CON",
+			"STR",
+			"'",
+			"\"",
+			"mod\">0</td>",
+			"INT",
+			"STR",
+			"exampleSelect2",
+			"pdo",
+			"smtp_port=587",
+			"mail",
+			"Header",
+			"Typography",
+			"Header",
+			"Typography",
+			"popper",
+			"Header",
+			"Typography",
+			"Clearings",
+			"Content",
+			"Typography",
+			"Elements",
+			"day",
+			"rotateAround",
+			"$this",
+			"resume",
+			"pause",
+			"default",
+			"lizard",
+			"img class=\"img-responsive center-block\" ",
+			"col-md-4",
+			"b14c86",
+			"#f05f40",
+			"neon",
+			".col-md-6",
+			"phone",
+			"email",
+			"100px",
+			"50px",
+			"id",
+			".main",
+			"a",
+			"footer",
+			"font-family",
+			"dacbb2",
+			"ef7faf",
+			"#ef7faf",
+			"c34d5f",
+			"content-holder",
+			"submarine",
+			"safe",
+			"game",
+			"circus",
+			"cake.png",
+			"container",
+			"conta",
+			"INT",
+			"CON",
+			"DEX",
+			"selectedCar",
+			"color",
+			"model",
+			".sticky::before",
+			"## Header",
+			"2014",
+			"glyph",
+			"”",
+			"’",
+			"‘",
+			"bs-example-navbar-collapse-1",
+			"mysterian",
+			"col-md-4 ",
+			"book",
+			"h1",
+			"$books",
+			"height"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 223.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
